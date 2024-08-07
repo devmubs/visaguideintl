@@ -1,0 +1,35 @@
+.sidebar-widget.post-widget {
+    position: relative !important;
+    display: block !important;
+    background: #f1f0f7 !important;
+    padding: 42px 40px 45px 50px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.sidebar-widget.category-widget {
+	position: relative;
+    display: block;
+    background: #f1f0f7;
+    padding: 42px 40px 45px 50px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.sidebar-widget.tags-widget {
+	position: relative;
+    display: block;
+    background: #f1f0f7;
+    padding: 42px 40px 45px 50px;
+    margin-bottom: 35px;
+    border-radius: 10px;
+}
+
+.tags-widget .widget-content a {
+    position: relative;
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
